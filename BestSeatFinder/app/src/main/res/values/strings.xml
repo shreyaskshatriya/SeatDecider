@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BestSeatFinder</string>
+
+    <!-- Hints -->
+    <string name="hint_origin">Enter origin</string>
+    <string name="hint_destination">Enter destination</string>
+
+    <!-- Button Texts -->
+    <string name="button_select_date">Select Date</string>
+    <string name="button_select_time">Select Time</string>
+    <string name="button_find_best_seat">Find Best Seat</string>
+
+    <!-- Labels -->
+    <string name="label_date_of_travel">Date of Travel:</string>
+    <string name="label_time_of_travel">Time of Travel:</string>
+
+    <!-- Spinner Entries -->
+    <string-array name="transport_modes">
+        <item>Bus</item>
+        <item>Train</item>
+        <item>Flight</item>
+    </string-array>
+
+    <!-- Recommendation Placeholder -->
+    <string name="recommendation_placeholder">Recommendation will appear here.</string>
+</resources>
